@@ -1,0 +1,19 @@
+{
+  "name": "cheerio-ofcom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liteninkiran/cheerio-ofcom.git"
+  },
+  "author": "Kiran Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liteninkiran/cheerio-ofcom/issues"
+  },
+  "homepage": "https://github.com/liteninkiran/cheerio-ofcom#readme"
+}
