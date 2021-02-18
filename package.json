@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/liteninkiran/cheerio-ofcom/issues"
   },
-  "homepage": "https://github.com/liteninkiran/cheerio-ofcom#readme"
+  "homepage": "https://github.com/liteninkiran/cheerio-ofcom#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "request": "^2.88.2"
+  }
 }
